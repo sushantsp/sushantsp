@@ -40,13 +40,13 @@
 
 ### LLMs & LLM Frameworks
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=".images/langgraph-color.png" alt="Description" width="50" height="50"> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=".images/ollama.png" alt="Description" width="37" height="37"> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=".images/openai.png" alt="Description" width="40" height="40"> </a> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src=".images/langgraph-color.png" alt="Description" width="50" height="50"> </a> 
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src=".images/ollama.png" alt="Description" width="37" height="37"> </a> 
+  <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noreferrer"> <img src=".images/openai.png" alt="Description" width="40" height="40"> </a> 
 
 ### Databases
 
-  <img src=".images/snowflake.svg" alt="Description" width="37" height="37">
+  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer">  <img src=".images/snowflake.svg" alt="Description" width="37" height="37"> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 ### API Testing
