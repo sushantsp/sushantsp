@@ -40,13 +40,13 @@
 
 ### LLMs & LLM Frameworks
 
-<img src=".images/langgraph-color.png" alt="Description" width="50" height="50">
-<img src=".images/ollama.png" alt="Description" width="37" height="37">
-<img src=".images/openai.png" alt="Description" width="40" height="40">
+  <img src=".images/langgraph-color.png" alt="Description" width="50" height="50">
+  <img src=".images/ollama.png" alt="Description" width="37" height="37">
+  <img src=".images/openai.png" alt="Description" width="40" height="40">
 
 ### Databases
 
-<img src=".images/snowflake.svg" alt="Description" width="37" height="37">
+  <img src=".images/snowflake.svg" alt="Description" width="37" height="37">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 ### API Testing
