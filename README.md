@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist/ML Engineer from Pune, India, with a knack for solving complex problems through data-driven insights.</h3>
 
 - With experience spanning diverse domains such as Automotive, Healthcare, and Cybersecurity, I bring a unique multidisciplinary perspective to problem-solving and driving impactful solutions.
-- 
+
 - Currently, I am focused on Agentic AI for workflow automation, leveraging cutting-edge technologies to optimize processes and enhance efficiency.
 
 - 🌱 I’m diving deep into CUDA and Reinforcement Learning (RL). The integration of RL with deep learning has shown significant potential in improving Large Language Models (LLMs) by enabling emergent properties. This exciting area of research fuels my curiosity and drives my exploration of RL.
