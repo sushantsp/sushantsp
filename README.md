@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">A passionate Data Scientist/ML Engineer from Pune, India, with a knack for solving complex problems through data-driven insights.</h3>
 
-- Having worked in variety of domains like Automotive, Healthcare and currently CyberSecurity - brings with me unique multidisciplinary perspective for solving problems and bringing impact.
+- With experience spanning diverse domains such as Automotive, Healthcare, and Cybersecurity, I bring a unique multidisciplinary perspective to problem-solving and driving impactful solutions.
+- 
+- Currently, I am focused on Agentic AI for workflow automation, leveraging cutting-edge technologies to optimize processes and enhance efficiency.
 
-- Currenty working on mostly Agentic AI for workflow automations. 
-
-- 🌱 I’m currently learning **Cuda & Reinforcement Learning**. Integration of RL with deeplearning has got huge improvements to LLMs in bringing about emergent properties. Hence the interest and reason for deep diving in RL. 
-
+- 🌱 I’m diving deep into CUDA and Reinforcement Learning (RL). The integration of RL with deep learning has shown significant potential in improving Large Language Models (LLMs) by enabling emergent properties. This exciting area of research fuels my curiosity and drives my exploration of RL.
 
 ## Technical Proficiency
 
